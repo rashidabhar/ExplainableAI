@@ -1,0 +1,10 @@
+Requirements
+
+This are the overall Requirements of the project but we have already setup the installation of everything in the main python file. The first two cells shows the requirements for the implementation which are also mentioned here. And since we run the project in Google Colab there is no specific requirement for python version.
+
+Overall requirements used in project:-
+1) TORCH.SCATTER (https://pytorch.org/docs/stable/generated/torch.scatter.html)
+2) TORCH.SPARSE (https://pytorch.org/docs/stable/sparse.html)
+3) PYG-LIB (https://github.com/pyg-team/pyg-lib)
+4) PYTORCH-GEOMETRIC (https://pytorch-geometric.readthedocs.io/en/latest/install/installation.html)
+5) CAPTUMEXPLAINER (https://pytorch-geometric.readthedocs.io/en/latest/generated/torch_geometric.explain.algorithm.CaptumExplainer.html#torch_geometric.explain.algorithm.CaptumExplainer)
